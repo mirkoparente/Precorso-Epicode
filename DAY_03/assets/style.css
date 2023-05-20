@@ -1,0 +1,116 @@
+body {
+    margin: 0;
+}
+
+.main-section {
+    padding: 20px;
+}
+
+.image-container {
+
+    height: 500px;
+    background-image: url("https://st.ilfattoquotidiano.it/wp-content/uploads/2021/11/17/maldive-690x362.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.image-container_amilla {
+
+    height: 500px;
+    background-image: url("https://www.amilla.com/wp-content/uploads/2023/05/home-hero-aerial-2x.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.image-container_ari {
+
+    height: 500px;
+    background-image: url("https://www.maldive365.it/wp-content/uploads/2020/08/bandiera-maldive-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.image-container_baa {
+
+    height: 500px;
+    background-image: url("https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/5b/30/1e/anantara-kihavah-maldives.jpg?w=1200&h=-1&s=1");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+
+.image-container_hul {
+
+    height: 500px;
+    background-image: url("https://i0.wp.com/passporterapp.com/en/blog/wp-content/uploads/2021/08/hulhumale-maldives.jpg?resize=1140%2C652&ssl=1");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.image-container_vad {
+
+    height: 500px;
+    background-image: url("https://www.travel365.it/foto/2-plancton-luminoso.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+
+h1 {
+    font-family: Prata;
+    font-size: 64px;
+    font-weight: 400px;
+    margin-bottom: 0;
+}
+
+h3 {
+    font-family: Prata;
+    font-size: 24px;
+    font-weight: 400px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+a {
+    font-weight: 600px;
+    font-style: italic;
+    text-decoration: none;
+}
+
+h6 {
+    padding: 22px;
+    margin-bottom: 0;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+    background-image: linear-gradient(45deg, rgb(7, 125, 141), white);
+}
+
+ul li {
+    display: block;
+    padding: 0;
+}
+
+li {
+    padding: 6px 0;
+    padding-left: 22px;
+    border-bottom: 1px solid #dfdfdf;
+}
+
+li a {
+    text-decoration: none;
+    color: rgb(7, 125, 141);
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.695);
+    color: white;
+    padding: 16px;
+    text-align: end;
+}
+
+footer a {
+    color: whitesmoke;
+    padding-right: 20px;
+}
